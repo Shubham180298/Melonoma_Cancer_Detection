@@ -11,16 +11,16 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-we have images of 9 types of skin cancers.
-some cancers have more images some have less, so basically class imbalance was there.
-we have to correctly predict skin cancer of type Melonama as if they are not diagnosed early, thay are deadly so can be prevented.
+- we have images of 9 types of skin cancers.
+- some cancers have more images some have less, so basically class imbalance was there.
+- we have to correctly predict skin cancer of type Melonama as if they are not diagnosed early, thay are deadly so can be prevented.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-since class were imbalanced model was doing overfitting.
-After data augmentation by transforming image accuracy goes down but no overfitting.
-After augmenting 500 images of each class model acheives high accuracy without overfitting.
+- since class were imbalanced model was doing overfitting.
+- After data augmentation by transforming image accuracy goes down but no overfitting.
+- After augmenting 500 images of each class model acheives high accuracy without overfitting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
